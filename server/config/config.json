@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "makiika",
+    "database": "covd3",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "covid",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "covid",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
